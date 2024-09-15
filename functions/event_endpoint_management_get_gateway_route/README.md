@@ -2,6 +2,6 @@
 
 Get Event Gateway route
  
-paramaters:
+parameters:
 - eem_instance_name
 - namespace

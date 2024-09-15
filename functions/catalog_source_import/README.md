@@ -2,6 +2,6 @@
 
 Import catalog source
  
-paramaters:
+parameters:
 - package_name
 - version
