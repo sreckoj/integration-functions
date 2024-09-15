@@ -1,6 +1,7 @@
 # event_streams_ea_update_welcome_urls
 
 Update welcome URLs in EventStreams - Event Automation
+  
 parameters:
 - name 
 - namespace

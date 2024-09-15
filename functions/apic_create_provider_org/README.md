@@ -1,7 +1,8 @@
 # apic_create_provider_org
 
-APIC - create provider organization
-paramaters:
+APIC - creates provider organization
+ 
+parameters:
 - apic_inst_name
 - namespace
 - porg_name='cp4i-demo-org'

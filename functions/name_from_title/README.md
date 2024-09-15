@@ -1,5 +1,6 @@
 # name_from_title
 
-Name from title
+Creates object name from title
+  
 parameters:
 - title

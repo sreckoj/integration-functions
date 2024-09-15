@@ -1,6 +1,7 @@
 # apic_config
 
 APIC configuration
+  
 parameters:
 - apic_inst_name
 - namespace

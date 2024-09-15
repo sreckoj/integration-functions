@@ -1,8 +1,10 @@
 # event_automation_welcome_page_setup
 
 Event Automation welcome page setup
+ 
 NOTE: In most of the cases this function will be called by other two
 welcome page functions
+ 
 parameters:
 - urls_config_map_name
 - es_instance_name

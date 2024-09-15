@@ -1,6 +1,7 @@
 # appconn_deploy_integration
 
-AppConnect - Deploy integration
+AppConnect - Deploys AppConnect integration
+  
 parameters:
 - dashboard_name
 - namespace
@@ -10,6 +11,7 @@ parameters:
 - integration_name
 - license
 - version
+  
 note: App Connect Dashboard API user is needed:
       Platform Navigator > Administration > Access control, Users, Add user
       Role mappings (Filter by clients): dashboard-admin, dashboard-viewer
